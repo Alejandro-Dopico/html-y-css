@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 60px;
+    font-family: fantasy;
+}
+h2{
+    font: 45px sans-serif;
+}
+body{
+    background: url('Imagenes/fondo.gif');
+    background-repeat: repeat;
+    background-size: 1600px;
+}
+header, aside, nav, section, footer, hgroup{
+    display: block;
+}
+header, nav{
+    text-align: center;
+}
+
+.agrupar{
+    border: solid 5px rgb(48, 0, 94);
+    background: linear-gradient(9deg, rgba(2,0,36,1) 0%, rgba(9,121,60,1) 44%, rgba(0,212,255,1) 100%);
+    width: 800px;
+    margin: auto;
+    padding:  20px 50px;
+}
+#pie{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(25, 211, 171);
+    border: solid 3px rgb(8, 151, 139);
+}
+
+.header{
+    padding: 30px;
+}
+.menu{
+    padding: 5px 15px;
+}
+.pietitulo{
+    padding: 30px;
+}
+.menu button{
+    list-style: none;
+    padding: 5px;
+    margin: 15px;
+    font: bold 20px white fantasy;
+    display: inline-block;
+    border: 2px solid rgb(47, 0, 255) ;
+    background: url('Imagenes/nav2.gif');
+    background-size: 480px
+}
+#cris{
+    padding: 10px;
+    margin: 10px;
+}
+.savage{
+    margin-left: 10px;
+    margin-right: 10px;
+    color:rgb(151, 8, 8)
+}
+.seccion{
+    margin: 20px;
+    width: 60%;
+    float: left;
+}
+.columna{
+    float: left;
+    margin: 30px;
+    width: 20%;
+}
+.columna blockquote{
+    border: 1px dashed black;
+    margin: 20px;
+    padding: 10px;
+}
+.pie{
+    list-style: none;
+    margin: 10px;
+    font: bold 40px fantasy;
+    display: inline-block;
+    color: rgb(15, 104, 99);
+    clear: both;
+}
+#titulonav{
+    font: bold 20px fantasy;
+    text-align: center;
+}
+article footer{
+    text-align: right;
+}
+time{
+    color: rgb(136, 160, 136);
+}
+.menu button{
+}
+#maquina{
+}
