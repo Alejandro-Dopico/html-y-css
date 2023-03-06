@@ -1,0 +1,5 @@
+Codi Article,Nom article,Tipus,Quantitat,Preu
+ART001,Vestit,Roba,150,25.95
+ART002,Ulleres,Complements,50,75.99
+ART003,Sabatilles,Sabates,200,9.95
+ART004,Bikini,Bany,75,34.95

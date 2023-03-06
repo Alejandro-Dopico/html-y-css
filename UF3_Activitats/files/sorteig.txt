@@ -1,0 +1,9 @@
+L'ID: 100
+Nom: Raquel
+Cognom: DAW
+L'Edat: 20
+
+L'ID: 200
+Nom: Alejandro
+Cognom: Dopico
+L'Edat: 26
